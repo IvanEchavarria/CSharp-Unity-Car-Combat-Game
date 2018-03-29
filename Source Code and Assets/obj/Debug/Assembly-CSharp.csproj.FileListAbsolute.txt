@@ -1,0 +1,269 @@
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\GameProduction III Project\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\GameProduction III Project\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\GameProduction III Project\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\Facebook.Unity.Settings.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\GameProduction III Project\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\nunit.framework.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\GameProduction III Project\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEditor.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\GameProduction III Project\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\GameProduction III Project\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\GameProduction III Project\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\GameProduction III Project\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\GameProduction III Project\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\GameProduction III Project\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\GameProduction III Project\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\GameProduction III Project\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\GameProduction III Project\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\GameProduction III Project\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\GameProduction III Project\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\GameProduction III Project\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\GameProduction III Project\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\GameProduction III Project\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\GameProduction III Project\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\GameProduction III Project\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\GameProduction III Project\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.xml
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\GameProduction III Project\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEditor.xml
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\GameProduction III Project\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\GameProduction III Project\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\GameProduction III Project\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\GameProduction III Project\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\nunit.framework.xml
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\GameProduction III Project\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\GameProduction III Project\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\GameProduction III Project\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\GameProduction III Project\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Game2020_Echavarria_Ivan_CarCombatGame\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\GameProduction III Project\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Game2020_Echavarria_Ivan_CarCombatGame\obj\Debug\Assembly-CSharp.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\GameProduction III Project\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Game2020_Echavarria_Ivan_CarCombatGame\obj\Debug\Assembly-CSharp.pdb
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\Facebook.Unity.Settings.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\nunit.framework.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEditor.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.xml
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEditor.xml
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\nunit.framework.xml
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\Game2020_Echavarria_Ivan_CarCombatGame\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\Game2020_Echavarria_Ivan_CarCombatGame\obj\Debug\Assembly-CSharp.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\Game2020_Echavarria_Ivan_CarCombatGame\obj\Debug\Assembly-CSharp.pdb
+C:\Users\graphic\Desktop\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\graphic\Desktop\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\graphic\Desktop\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\Facebook.Unity.Settings.dll
+C:\Users\graphic\Desktop\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\nunit.framework.dll
+C:\Users\graphic\Desktop\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEditor.dll
+C:\Users\graphic\Desktop\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\graphic\Desktop\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.dll
+C:\Users\graphic\Desktop\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\graphic\Desktop\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\graphic\Desktop\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\graphic\Desktop\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\graphic\Desktop\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\graphic\Desktop\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\graphic\Desktop\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\graphic\Desktop\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\graphic\Desktop\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\graphic\Desktop\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\graphic\Desktop\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\graphic\Desktop\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\graphic\Desktop\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\graphic\Desktop\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\graphic\Desktop\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.xml
+C:\Users\graphic\Desktop\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEditor.xml
+C:\Users\graphic\Desktop\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\graphic\Desktop\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\graphic\Desktop\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\graphic\Desktop\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\nunit.framework.xml
+C:\Users\graphic\Desktop\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\graphic\Desktop\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\graphic\Desktop\Game2020_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\graphic\Desktop\Game2020_Echavarria_Ivan_CarCombatGame\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\graphic\Desktop\Game2020_Echavarria_Ivan_CarCombatGame\obj\Debug\Assembly-CSharp.dll
+C:\Users\graphic\Desktop\Game2020_Echavarria_Ivan_CarCombatGame\obj\Debug\Assembly-CSharp.pdb
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\Facebook.Unity.Settings.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\nunit.framework.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEditor.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.xml
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEditor.xml
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\nunit.framework.xml
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\GAME2020_M1_Echavarria_Ivan_CarCombatGame\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\GAME2020_M1_Echavarria_Ivan_CarCombatGame\obj\Debug\Assembly-CSharp.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\GAME2020_M1_Echavarria_Ivan_CarCombatGame\obj\Debug\Assembly-CSharp.pdb
+C:\Users\spawn\Desktop\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\spawn\Desktop\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\spawn\Desktop\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\Facebook.Unity.Settings.dll
+C:\Users\spawn\Desktop\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\nunit.framework.dll
+C:\Users\spawn\Desktop\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEditor.dll
+C:\Users\spawn\Desktop\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\spawn\Desktop\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.dll
+C:\Users\spawn\Desktop\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\spawn\Desktop\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\spawn\Desktop\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\spawn\Desktop\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\spawn\Desktop\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\spawn\Desktop\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\spawn\Desktop\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\spawn\Desktop\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\spawn\Desktop\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\spawn\Desktop\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\spawn\Desktop\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\spawn\Desktop\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\spawn\Desktop\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\spawn\Desktop\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\spawn\Desktop\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.xml
+C:\Users\spawn\Desktop\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEditor.xml
+C:\Users\spawn\Desktop\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\spawn\Desktop\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\spawn\Desktop\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\spawn\Desktop\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\nunit.framework.xml
+C:\Users\spawn\Desktop\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\spawn\Desktop\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\spawn\Desktop\GAME2020_M1_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\spawn\Desktop\GAME2020_M1_Echavarria_Ivan_CarCombatGame\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\spawn\Desktop\GAME2020_M1_Echavarria_Ivan_CarCombatGame\obj\Debug\Assembly-CSharp.dll
+C:\Users\spawn\Desktop\GAME2020_M1_Echavarria_Ivan_CarCombatGame\obj\Debug\Assembly-CSharp.pdb
+C:\Users\graphic\Desktop\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\graphic\Desktop\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\graphic\Desktop\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\Facebook.Unity.Settings.dll
+C:\Users\graphic\Desktop\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\nunit.framework.dll
+C:\Users\graphic\Desktop\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEditor.dll
+C:\Users\graphic\Desktop\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\graphic\Desktop\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.dll
+C:\Users\graphic\Desktop\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\graphic\Desktop\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\graphic\Desktop\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\graphic\Desktop\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\graphic\Desktop\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\graphic\Desktop\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\graphic\Desktop\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\graphic\Desktop\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\graphic\Desktop\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\graphic\Desktop\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\graphic\Desktop\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\graphic\Desktop\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\graphic\Desktop\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\graphic\Desktop\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\graphic\Desktop\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.xml
+C:\Users\graphic\Desktop\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEditor.xml
+C:\Users\graphic\Desktop\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\graphic\Desktop\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\graphic\Desktop\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\graphic\Desktop\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\nunit.framework.xml
+C:\Users\graphic\Desktop\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\graphic\Desktop\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\graphic\Desktop\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\graphic\Desktop\GAME2020_M2_Echavarria_Ivan_CarCombatGame\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\graphic\Desktop\GAME2020_M2_Echavarria_Ivan_CarCombatGame\obj\Debug\Assembly-CSharp.dll
+C:\Users\graphic\Desktop\GAME2020_M2_Echavarria_Ivan_CarCombatGame\obj\Debug\Assembly-CSharp.pdb
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\NEW VERSION\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\NEW VERSION\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\NEW VERSION\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\nunit.framework.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\NEW VERSION\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEditor.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\NEW VERSION\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\NEW VERSION\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\NEW VERSION\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\NEW VERSION\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\NEW VERSION\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\NEW VERSION\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\NEW VERSION\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\NEW VERSION\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\NEW VERSION\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\NEW VERSION\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\NEW VERSION\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\NEW VERSION\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\NEW VERSION\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\NEW VERSION\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.xml
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\NEW VERSION\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEditor.xml
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\NEW VERSION\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\NEW VERSION\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\NEW VERSION\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\NEW VERSION\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\nunit.framework.xml
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\NEW VERSION\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\NEW VERSION\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\NEW VERSION\GAME2020_M2_Echavarria_Ivan_CarCombatGame\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\NEW VERSION\GAME2020_M2_Echavarria_Ivan_CarCombatGame\obj\Debug\Assembly-CSharp.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\NEW VERSION\GAME2020_M2_Echavarria_Ivan_CarCombatGame\obj\Debug\Assembly-CSharp.pdb
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\NEW VERSION\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEditor.Advertisements.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\NEW VERSION\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEditor.Analytics.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\NEW VERSION\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEditor.Android.Extensions.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\NEW VERSION\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\NEW VERSION\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEditor.Graphs.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\NEW VERSION\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEditor.HoloLens.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\NEW VERSION\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEditor.iOS.Extensions.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\NEW VERSION\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEditor.Networking.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\NEW VERSION\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEditor.Purchasing.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\NEW VERSION\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEditor.SpatialTracking.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\NEW VERSION\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEditor.TestRunner.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\NEW VERSION\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEditor.Timeline.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\NEW VERSION\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEditor.TreeEditor.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\NEW VERSION\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEditor.UI.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\NEW VERSION\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEditor.UIAutomation.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\NEW VERSION\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEditor.VR.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\NEW VERSION\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEditor.WebGL.Extensions.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\NEW VERSION\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEditor.WindowsStandalone.Extensions.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\NEW VERSION\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.Advertisements.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\NEW VERSION\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\NEW VERSION\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.Purchasing.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\NEW VERSION\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\NEW VERSION\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\NEW VERSION\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\NEW VERSION\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\Unity.Cecil.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\NEW VERSION\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\NEW VERSION\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\NEW VERSION\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEditor.iOS.Extensions.Common.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\NEW VERSION\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\NEW VERSION\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEditor.UI.xml
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\NEW VERSION\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEditor.Networking.xml
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\NEW VERSION\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEditor.TestRunner.xml
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\NEW VERSION\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEditor.Timeline.xml
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\NEW VERSION\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEditor.TreeEditor.xml
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\NEW VERSION\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\NEW VERSION\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEditor.UIAutomation.xml
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\NEW VERSION\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.xml
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\NEW VERSION\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\NEW VERSION\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEditor.HoloLens.xml
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\NEW VERSION\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEditor.SpatialTracking.xml
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\NEW VERSION\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\NEW VERSION\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEditor.VR.xml
+C:\Users\spawn\Desktop\GeorgeBrown courses\GameProduction III\NEW VERSION\GAME2020_M2_Echavarria_Ivan_CarCombatGame\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
